@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.span {
+    color: deeppink;
+    font-size: 900;
+
+}
+
+.btn {
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    border: 6px solid;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.header{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+}
+p{
+    color: dimgray;
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 40px;
+}
